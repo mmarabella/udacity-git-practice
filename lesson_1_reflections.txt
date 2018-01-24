@@ -1,0 +1,13 @@
+command line
+subl
+pwd #print working directory
+ls
+scp      #secure copy
+
+
+
+git commands
+git log
+git diff <commit id 1> <commit id 2>
+git clone
+	#different from copying the directory because it copies commit #history too
