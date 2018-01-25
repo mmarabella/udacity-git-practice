@@ -18,3 +18,5 @@ second change made on new comment branch
 
 git fetch --> git log --> git diff
 	* if there have been changes made on github and you want to see them
+
+practice with github merging
