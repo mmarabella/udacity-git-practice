@@ -15,3 +15,5 @@ git clone
 git log --graph --oneline master [branch-name]
 
 change made on new-comment
+
+second change made on new comment branch
