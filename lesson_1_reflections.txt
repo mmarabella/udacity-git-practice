@@ -13,3 +13,4 @@ git clone
 	#different from copying the directory because it copies commit #history too
 
 comment from master #1
+comment from master #2
