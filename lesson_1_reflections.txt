@@ -12,5 +12,6 @@ git diff <commit id 1> <commit id 2>
 git clone
 	#different from copying the directory because it copies commit #history too
 
-comment from master #1
-comment from master #2
+change made on new-comment
+
+second change made on new comment branch
